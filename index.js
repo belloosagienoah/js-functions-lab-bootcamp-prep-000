@@ -10,4 +10,4 @@ function happyHolidaysTo(name){
 }
 happyHolidaysTo('Bello Osagie')
 
-function happy
+function happyHolid
