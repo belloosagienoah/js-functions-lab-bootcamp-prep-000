@@ -3,4 +3,4 @@ function happyHolidays(){
   var string = "Happy holidays!"
   return string
 }
-happy
+happyH  
