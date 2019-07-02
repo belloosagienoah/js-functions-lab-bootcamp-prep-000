@@ -11,5 +11,5 @@ function happyHolidaysTo(name){
 happyHolidaysTo('Bello Osagie')
 
 function happyHolidaysTo(holiday, name){
-  retuen `Happy ${holiday}, `
+  retuen `Happy ${holiday}, ${}`
 }
