@@ -1,4 +1,4 @@
 // write your code below!
 function happyHolidays(){
-  var string = "Happ"
+  var string = "Happy holiday"
 }
