@@ -1,2 +1,2 @@
 // write your code below!
-func
+function happ
