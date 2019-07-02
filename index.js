@@ -10,6 +10,6 @@ function happyHolidaysTo(name){
 }
 happyHolidaysTo('Bello Osagie')
 
-function happyHolidaysTo(h){
+function happyHolidaysTo(holiday){
   retuen ``
 }
